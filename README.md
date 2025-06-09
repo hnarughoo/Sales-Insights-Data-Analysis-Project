@@ -9,15 +9,14 @@
 This case study simulates a real-world scenario where **Atliq Hardware**, a fast-growing computer hardware company in India, struggles with fragmented and unreliable sales reporting. By centralizing data through **MySQL** and visualizing key insights in **Power BI**, the project aims to empower the Sales Director with timely, actionable insights for strategic decision-making.
 
 
-## ❗Problem Statement
+## ❗ Problem Statement
 
-The Sales Director at Atliq Hardware is facing major challenges:
+Atliq Hardware faces several challenges in managing its sales reporting:
 
-- No centralized or real-time reporting system
-- Overdependence on regional managers' **verbal updates** and **Excel files**
-- Difficulty tracking sales trends, regional performance, or weak product lines
-- A total of **69+ Excel files**, making consolidation tedious and error-prone
-
+- No centralized or real-time reporting system to track sales performance  
+- Heavy dependence on regional managers’ verbal updates and multiple Excel files  
+- Difficulty in identifying sales trends, regional strengths/weaknesses, and product line issues  
+- Maintenance of over **69+ Excel files** resulting in tedious, error-prone consolidation
 
 
 ## 🎯 Project Objectives
@@ -53,7 +52,7 @@ An interactive Power BI dashboard, connected to a MySQL backend, offering real-t
 - 10% cost optimization via data-driven decisions  
 - 20% time savings for analysts
 
-
+---
 
 ## 🔄 Project Workflow
 
