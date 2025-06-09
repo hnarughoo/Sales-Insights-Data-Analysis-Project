@@ -74,18 +74,6 @@ An interactive Power BI dashboard, connected to a MySQL backend, offering real-t
   - Revenue & quantity trends
 - Configured **monthly email reports**
 
-
-
-## 📊 Power BI Dashboard Features
-
-- 📅 Year-over-Year Revenue & Sales Trends  
-- 🌍 Region-Wise Performance: North, South, Central  
-- 📦 Product Category Sales Breakdown  
-- 🔎 Filters: Date Range, Product, Region  
-- 📬 Automated email reports for Sales Director
-
-> 🔗 Screenshots and `.pbix` file available in the `/dashboards/` folder
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -98,21 +86,60 @@ An interactive Power BI dashboard, connected to a MySQL backend, offering real-t
 | **Excel**    | Legacy data format (prior to automation)       |
 
 ---
+## 📂 Folder Structure
 
-## 📁 Repository Structure
+<details>
+  <summary>assets/</summary>
 
+  - Contains images and GIFs used in documentation and dashboards.  
+</details>
+
+<details>
+  <summary>PowerBI/</summary>
+
+  - <code>dashboard.pbix</code> — Main Power BI dashboard file for visualization and reporting.  
+</details>
+
+<details>
+  <summary>SQL/</summary>
+
+  - SQL scripts including views, queries, and data transformation logic.  
+</details>
+
+<details>
+  <summary>README.md</summary>
+
+  - Project documentation and overview.  
+</details>
+
+
+---
 ## 📤 Outcome
 
 Before we conclude, here's a visual representation of the dashboard:
 
 ### 🎓 Original Tutorial Dashboard (Codebasics)
-![Original Dashboard](https://github.com/user-attachments/assets/4eca7482-1b3c-4993-92cb-5c9bff06da6d)
+![OriginalDashboard-ezgif com-optimize](https://github.com/user-attachments/assets/3261eb55-fc7b-4207-9baf-d0d1ab718449)
 
 ### 🚀 My Dashboard Implementation
-![My Dashboard](./assets/my_dashboard.png)
+![MyDashboardImplementation-ezgif com-optimize](https://github.com/user-attachments/assets/76aea663-e177-4595-b817-723651a9b86d)
 
 > While inspired by the original, this dashboard was developed independently using **MySQL** and **Power BI**, applying what I learned from the guided tutorial.
 
+---
+
+## ✅ Summary
+
+This project showcases the power of combining structured data (MySQL) with dynamic reporting tools (Power BI) to solve real-world business problems. It reflects my learning journey in analytics and dashboard design, based on a guided project by Codebasics.
+
+---
+
+## 📫 Contact
+
+For questions or collaboration, please reach out via:
+
+- Email: hna.rughoo@gmail.com  
+- LinkedIn: [Vandana Rughoo](https://www.linkedin.com/in/vandana-rughoo-a018aa4a/)
 
 
 
